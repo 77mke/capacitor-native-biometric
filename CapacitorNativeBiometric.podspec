@@ -6,7 +6,7 @@
     s.license = 'MIT'
     s.homepage = 'https://github.com/epicshaggy/capacitor-native-biometric'
     s.author = 'Jose Martinez'
-    s.source = { :git => 'https://github.com/epicshaggy/capacitor-native-biometric', :tag => s.version.to_s }
+    s.source = { :git => 'https://github.com/77mke/capacitor-native-biometric', :branch => 'capacitor-2' }
     s.source_files = 'ios/Plugin/**/*.{swift,h,m,c,cc,mm,cpp}'
     s.ios.deployment_target  = '11.0'
     s.dependency 'Capacitor'
